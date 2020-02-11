@@ -11,3 +11,5 @@ A collection of all my TA resources and discussion slides.
 **Discussion 4 - Exam 1 Review** https://docs.google.com/presentation/d/1etAb5Vx2p4D8cQYAnc7k_58859ZhOiPPcJAxtPGV-Mk/edit?usp=sharing
 
 **AVL Trees** https://drive.google.com/file/d/1ZtKYGFtAUskKsuxTERPCvOxI81o_S_pr/view?usp=sharing
+
+**Discussion 5 - Exam 1 Post-Mortem** https://drive.google.com/file/d/1dZmugu6w2PmoO2qjHlvYKPkyd0vMf7Gb/view?usp=sharing
