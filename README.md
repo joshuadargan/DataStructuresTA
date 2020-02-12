@@ -12,4 +12,4 @@ A collection of all my TA resources and discussion slides.
 
 **AVL Trees** https://drive.google.com/file/d/1ZtKYGFtAUskKsuxTERPCvOxI81o_S_pr/view?usp=sharing
 
-**Discussion 5 - Exam 1 Post-Mortem** https://drive.google.com/file/d/1dZmugu6w2PmoO2qjHlvYKPkyd0vMf7Gb/view?usp=sharing
+**Discussion 5 - Exam 1 Post-Mortem** https://drive.google.com/file/d/1MMQX-2NErF65h5yGVplLgZ6HSsYDr1eW/view?usp=sharing
