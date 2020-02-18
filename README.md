@@ -13,3 +13,5 @@ A collection of all my TA resources and discussion slides.
 **AVL Trees** https://drive.google.com/file/d/1ZtKYGFtAUskKsuxTERPCvOxI81o_S_pr/view?usp=sharing
 
 **Discussion 5 - Exam 1 Post-Mortem** https://drive.google.com/file/d/1MMQX-2NErF65h5yGVplLgZ6HSsYDr1eW/view?usp=sharing
+
+**Discussion 6 - Sorting, B+ Trees, and Splay Trees** https://docs.google.com/presentation/d/19RBmUimtC0OlqFVwEhvientezrcadznZ6mIDTGttjG8/edit?usp=sharing
