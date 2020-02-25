@@ -15,3 +15,5 @@ A collection of all my TA resources and discussion slides.
 **Discussion 5 - Exam 1 Post-Mortem** https://drive.google.com/file/d/1MMQX-2NErF65h5yGVplLgZ6HSsYDr1eW/view?usp=sharing
 
 **Discussion 6 - Sorting, B+ Trees, and Splay Trees** https://docs.google.com/presentation/d/19RBmUimtC0OlqFVwEhvientezrcadznZ6mIDTGttjG8/edit?usp=sharing
+
+**Discussion 7 - Divide & Conquer Sorts** https://docs.google.com/presentation/d/1aS7L91PzS5JEJN54K7pAvP-c_Ezrljn4N7mJdf_YOlY/edit?usp=sharing
