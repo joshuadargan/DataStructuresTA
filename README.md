@@ -17,3 +17,7 @@ A collection of all my TA resources and discussion slides.
 **Discussion 6 - Sorting, B+ Trees, and Splay Trees** https://docs.google.com/presentation/d/19RBmUimtC0OlqFVwEhvientezrcadznZ6mIDTGttjG8/edit?usp=sharing
 
 **Discussion 7 - Divide & Conquer Sorts** https://docs.google.com/presentation/d/1aS7L91PzS5JEJN54K7pAvP-c_Ezrljn4N7mJdf_YOlY/edit?usp=sharing
+
+**Discussion 8 - Heaps** 
+Slides https://drive.google.com/file/d/1V_bzGANzjuC5o8iPmrz6M3z89XUvr_QO/view?usp=sharing
+Example https://drive.google.com/file/d/1BUnmnCoBoAepvZAhOS_Ec1a6Zx3sr65U/view?usp=sharing
